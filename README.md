@@ -216,7 +216,5 @@ This project helped develop practical understanding of:
 
 **A. Ahusan Fasiq R**
 
-Roll No: `6001B_015`
-
 ## License
 
